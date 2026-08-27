@@ -1,0 +1,6 @@
+{
+  "name": "i18n-gap",
+  "version": "0.1.0",
+  "bin": { "i18n-gap": "bin/scan.js" },
+  "license": "MIT"
+}
